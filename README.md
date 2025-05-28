@@ -1,10 +1,17 @@
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=E7EFC7&width=435&lines=Seja+bem-vindo+ao+meu+perfil!;Eu+sou+Ot%C3%A1vio.)](https://git.io/typing-svg)
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=982&color=E7EFC7&background=EB47FF00&center=true&vCenter=true&width=435&height=85&lines=Seja+bem-vindo+ao+meu+perfil!;Eu+sou+Ot%C3%A1vio." alt="Typing SVG" /></a>
+
+<img src="./src/otavioCataneoGif.gif" alt="Logo" width="200"/>
+
+</div>
 
 
+
+##
 - Técnico em desenvolvimento de sistemas 💻
 - Cursando Análise e Desenvolvimento de Sistemas 📚
-
-  <div>
+##
+  <div align="center">
     <a href="https://beacons.ai/chininha-03" >
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chininha-03&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=moltack" alt="GitHub stats">
 
