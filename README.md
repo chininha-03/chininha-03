@@ -1,4 +1,4 @@
-## <svg width="100%" height="150">
+ <svg width="100%" height="150">
   <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
         font-size="50" font-family="monospace" fill="none" stroke="black" stroke-width="1"
         stroke-dasharray="500" stroke-dashoffset="500">
@@ -6,6 +6,7 @@
     <animate attributeName="stroke-dashoffset" from="500" to="0" dur="3s" fill="freeze" />
   </text>
 </svg>
+
 
 - Técnico em desenvolvimento de sistemas 💻
 - Cursando Análise e Desenvolvimento de Sistemas 📚
